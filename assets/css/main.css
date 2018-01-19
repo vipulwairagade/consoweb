@@ -48,6 +48,13 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/*canvas*/
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -88,6 +95,9 @@
 			-ms-transition-delay: none !important;
 			transition-delay: none !important;
 		}
+
+
+
 
 /* Type */
 
@@ -1040,7 +1050,7 @@
 		line-height: calc(2.75rem - 2px);
 	}
 
-/* BG */
+/* BG*/
 
 	#bg {
 		-moz-transform: scale(1.0);
@@ -1052,8 +1062,8 @@
 		top: 0;
 		left: 0;
 		width: 100%;
-		height: 100vh;
-		z-index: 1;
+		height:autos;
+		z-index: 0;
 	}
 
 		#bg:before, #bg:after {
@@ -1477,7 +1487,7 @@
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
-			width: 40rem;
+			width: 90%;
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.85);
 			border-radius: 4px;
