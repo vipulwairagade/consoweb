@@ -1475,8 +1475,10 @@ canvas {
 		-ms-flex-direction: column;
 		flex-direction: column;
 		position: relative;
-		max-width: 100%;
+		width:102%;
+		max-width: 102%;
 		z-index: 3;
+		margin:-20px;
 	}
 
 		#main article {
@@ -1490,7 +1492,7 @@ canvas {
 			transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
 			padding: 4.5rem 2.5rem 1.5rem 2.5rem ;
 			position: relative;
-			width: 90%;
+			width: 100%;
 			height:-webkit-fill-available;
 			max-width: 100%;
 			background-color: rgba(27, 31, 34, 0.8);
@@ -1509,7 +1511,7 @@ canvas {
 
 			#main article .close {
 				display: block;
-				position: absolute;
+				position: fixed;
 				top: 0;
 				right: 0;
 				width: 4rem;

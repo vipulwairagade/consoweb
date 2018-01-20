@@ -575,8 +575,8 @@ Particle.prototype = (function(o) {
 
         context.save();
         var my_gradient=context.createLinearGradient(660, 660, 0, 0);
-        my_gradient.addColorStop(0,"rgba(116, 116, 120,0.8)");
-        my_gradient.addColorStop(1,"rgb(62, 68, 80)");
+        my_gradient.addColorStop(0,"#9fa8a3");
+        my_gradient.addColorStop(1,"#22264b");
         context.fillStyle = my_gradient;
         context.fillRect(0, 0, screenWidth, screenHeight);
         context.fillStyle = grad;
