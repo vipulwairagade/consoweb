@@ -694,6 +694,14 @@ canvas {
 
 		}
 
+		/*Adding Grayscale effect to images*/
+		.activator {
+			filter: grayscale(100%);
+		}
+		.activator:hover {
+			filter: none;
+		}
+
 /* List */
 
 	ol {
