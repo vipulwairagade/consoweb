@@ -6,10 +6,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 		<link rel="stylesheet" href="assets/css/main.css" />
-	  <!-- Compiled and minified CSS -->
-	  <link rel="stylesheet" href="assets/css/materialize.css" />
-	<!--Import Google Icon Font-->
-	      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    	<link type="text/css" rel="stylesheet" href="assests/css/lightGallery.css" />
+    	<link href="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css" rel="stylesheet">
+	  	<!-- Compiled and minified CSS -->
+	  	<link rel="stylesheet" href="assets/css/materialize.css" />
+		<!--Import Google Icon Font-->
+	    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
@@ -39,7 +41,7 @@
 							<li><a href="#intro">INTRO</a></li>
 							<li><a href="#about">ABOUT US</a></li>
 							<li><a href="#work">EVENTS</a></li>
-							<li><a href="#elements">GALLERY</a></li>
+							<li><a href="#gallery">GALLERY</a></li>
 							<li><a href="#contact">CONTACT</a></li>
 						</ul>
 					</nav>
@@ -212,6 +214,35 @@
 								<li><a href="#" class="icon fa-github"><span class="label">GitHub</span></a></li>
 							</ul>
 						</article>
+
+					<!--Gallery-->
+					<article id="gallery">
+						<h2>Gallery</h2>
+						<div class="demo-gallery">
+				            <ul id="lightgallery" class="list-unstyled row">
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/1-375.jpg 375, img/1-480.jpg 480, img/1.jpg 800" data-src="img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                    <a href="">
+				                        <img class="img-responsive" src="img/thumb-1.jpg" alt="Thumb-1">
+				                    </a>
+				                </li>
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/2-375.jpg 375, img/2-480.jpg 480, img/2.jpg 800" data-src="img/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                    <a href="">
+				                        <img class="img-responsive" src="img/thumb-2.jpg" alt="Thumb-2">
+				                    </a>
+				                </li>
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/13-375.jpg 375, img/13-480.jpg 480, img/13.jpg 800" data-src="img/13-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                    <a href="">
+				                        <img class="img-responsive" src="img/thumb-13.jpg" alt="Thumb-3">
+				                    </a>
+				                </li>
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                    <a href="">
+				                        <img class="img-responsive" src="img/thumb-4.jpg" alt="Thumb-4">
+				                    </a>
+				                </li>
+				            </ul>
+				        </div>
+					</article>
 
 					<!-- Elements -->
 						<article id="elements">
@@ -471,7 +502,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<!---script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script-->
 		<script src="assets/js/skel.min.js"></script>
 		<script src="assets/js/util.js"></script>
-
 		<script src="assets/js/gravity.js"></script>
 		<script src="assets/js/gui.js"></script>
 		<script src="assets/js/main.js"></script>
@@ -479,6 +509,18 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<script src="assets/js/cards.js"></script>
 		<!-- Compiled and minified JavaScript -->
 
+		<!--lightGallery-->
+		<script src="https://cdn.jsdelivr.net/picturefill/2.3.1/picturefill.min.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/js/lightgallery.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-pager.js/master/dist/lg-pager.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-autoplay.js/master/dist/lg-autoplay.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-fullscreen.js/master/dist/lg-fullscreen.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-zoom.js/master/dist/lg-zoom.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-hash.js/master/dist/lg-hash.js"></script>
+        <script src="https://cdn.rawgit.com/sachinchoolur/lg-share.js/master/dist/lg-share.js"></script>
+        <script>
+            lightGallery(document.getElementById('lightgallery')); /*global lightGallery*/
+        </script>
 
 	</body>
 </html>
