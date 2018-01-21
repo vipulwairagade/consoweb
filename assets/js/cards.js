@@ -28,3 +28,6 @@ $('.card').click(function (e) {
         }
       }
     });
+$('.card').find('a').click(function(){
+  $('.card-reveal').css({ display: 'none'});
+});
