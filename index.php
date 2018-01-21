@@ -60,102 +60,102 @@
 						<article id="work">
 							<h2 class="major">Events</h2>
 							<div class="row">
-								<div class="col s12 m4">
+								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/bg.jpg">
 									    </div>
 									    <div class="card-content">
-									      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+									      <span class="card-title activator grey-text text-darken-4">STARTUP CONCLAVE<i class="material-icons right">more_vert</i></span>
 
 									    </div>
 									    <div class="card-reveal">
-									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+									      <span class="card-title blue-grey-text text-darken-4">STARTUP CONCLAVE<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
 									      <a class="brown-text text-darken-4"href="#event1" target="_blank">This is a link</a></p>
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m4">
+								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/bg.jpg">
 									    </div>
 									    <div class="card-content">
-									      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+									      <span class="card-title activator grey-text text-darken-4">SWADES<i class="material-icons right">more_vert</i></span>
 
 									    </div>
 									    <div class="card-reveal">
-									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+									      <span class="card-title blue-grey-text text-darken-4">SWADES<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
 									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m4">
+								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/bg.jpg">
 									    </div>
 									    <div class="card-content">
-									      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+									      <span class="card-title activator grey-text text-darken-4">CEO<i class="material-icons right">more_vert</i></span>
 
 									    </div>
 									    <div class="card-reveal">
-									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+									      <span class="card-title blue-grey-text text-darken-4">CEO<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
 									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m4">
+								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/bg.jpg">
 									    </div>
 									    <div class="card-content">
-									      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+									      <span class="card-title activator grey-text text-darken-4">SILHOUETTE<i class="material-icons right">more_vert</i></span>
 
 									    </div>
 									    <div class="card-reveal">
-									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+									      <span class="card-title blue-grey-text text-darken-4">SILHOUETTE<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
 									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m4">
+								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/bg.jpg">
 									    </div>
 									    <div class="card-content">
-									      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+									      <span class="card-title activator grey-text text-darken-4">AD-VENTURE<i class="material-icons right">more_vert</i></span>
 
 									    </div>
 									    <div class="card-reveal">
-									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+									      <span class="card-title blue-grey-text text-darken-4">AD-VENTURE<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
 									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m4">
+								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/bg.jpg">
+									      <img class="activator" src="images/adventure.jpg">
 									    </div>
 									    <div class="card-content">
-									      <span class="card-title activator grey-text text-darken-4">Card Title<i class="material-icons right">more_vert</i></span>
+									      <span class="card-title activator grey-text text-darken-4">BIZMANTRA<i class="material-icons right">more_vert</i></span>
 
 									    </div>
 									    <div class="card-reveal">
-									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+									      <span class="card-title blue-grey-text text-darken-4">BIZMANTRA<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
 									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
@@ -168,14 +168,52 @@
 					<!--Events-->
 					<article id="event1">
 							<h2 class="major">Event Name</h2>
-							<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-							<h3>Event Info</h3>
-							<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
-							Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-							Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
-							Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-							Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+
+
+							  <div class="card" id="event-card-bg">
+							    <div class="card-tabs">
+							      <ul class="tabs tabs-transparent">
+							        <li class="tab"><a class="active" href="#test4">WHAT?</a></li>
+							        <li class="tab"><a href="#test5">WHY?</a></li>
+							        <li class="tab"><a href="#test6">REGISTER</a></li>
+							        <li class="tab"><a href="#test7">CONTACT</a></li>
+							      </ul>
+							    </div>
+							    <div class="card-content code">
+							    	<div id="test4">
+								      	<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+										<h3>Event Info</h3>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
+											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							    	</div>
+							    	<div id="test5">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test6">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test7">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+
+							    </div>
+							  </div>
+
+
+
+
 
 					</article>
 
@@ -481,6 +519,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 		<script src="assets/js/main.js"></script>
 		<script src="assets/js/velocity.min.js"></script>
 		<script src="assets/js/cards.js"></script>
+		<script src="assets/js/materialize.js"></script>
 		<!-- Compiled and minified JavaScript -->
 
 

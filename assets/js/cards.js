@@ -1,4 +1,4 @@
-$('.card').click(function (e) {
+$('.card').on('click',function (e) {
       if ($(this).find('> .card-reveal').length) {
         var $card = $(e.target).closest('.card');
         if ($card.data('initialOverflow') === undefined) {
