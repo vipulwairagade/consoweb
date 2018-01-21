@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 
 		<link rel="stylesheet" href="assets/css/main.css" />
-    	<link type="text/css" rel="stylesheet" href="assests/css/lightGallery.css" />
+    	<link type="text/css" rel="stylesheet" href="assets/css/gallery.css" />
     	<link href="https://cdn.rawgit.com/sachinchoolur/lightgallery.js/master/dist/css/lightgallery.css" rel="stylesheet">
 	  	<!-- Compiled and minified CSS -->
 	  	<link rel="stylesheet" href="assets/css/materialize.css" />
@@ -220,24 +220,24 @@
 						<h2>Gallery</h2>
 						<div class="demo-gallery">
 				            <ul id="lightgallery" class="list-unstyled row">
-				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/1-375.jpg 375, img/1-480.jpg 480, img/1.jpg 800" data-src="img/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/1-375.jpg 375, images/1-480.jpg 480, images/1.jpg 800" data-src="images/1-1600.jpg" data-sub-html="<h4>Fading Light</h4><p>Classic view from Rigwood Jetty on Coniston Water an old archive shot similar to an old post but a little later on.</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
 				                    <a href="">
-				                        <img class="img-responsive" src="img/thumb-1.jpg" alt="Thumb-1">
+				                        <img class="img-responsive" src="images/thumb-1.jpg" alt="Thumb-1">
 				                    </a>
 				                </li>
-				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/2-375.jpg 375, img/2-480.jpg 480, img/2.jpg 800" data-src="img/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/2-375.jpg 375, images/2-480.jpg 480, images/2.jpg 800" data-src="images/2-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
 				                    <a href="">
-				                        <img class="img-responsive" src="img/thumb-2.jpg" alt="Thumb-2">
+				                        <img class="img-responsive" src="images/thumb-2.jpg" alt="Thumb-2">
 				                    </a>
 				                </li>
-				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/13-375.jpg 375, img/13-480.jpg 480, img/13.jpg 800" data-src="img/13-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/13-375.jpg 375, images/13-480.jpg 480, images/13.jpg 800" data-src="images/13-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
 				                    <a href="">
-				                        <img class="img-responsive" src="img/thumb-13.jpg" alt="Thumb-3">
+				                        <img class="img-responsive" src="images/thumb-13.jpg" alt="Thumb-3">
 				                    </a>
 				                </li>
-				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="img/4-375.jpg 375, img/4-480.jpg 480, img/4.jpg 800" data-src="img/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
+				                <li class="col-xs-6 col-sm-4 col-md-3" data-responsive="images/4-375.jpg 375, images/4-480.jpg 480, images/4.jpg 800" data-src="images/4-1600.jpg" data-sub-html="<h4>Bowness Bay</h4><p>A beautiful Sunrise this morning taken En-route to Keswick not one as planned but I'm extremely happy I was passing the right place at the right time....</p>" data-pinterest-text="Pin it1" data-tweet-text="share on twitter 1">
 				                    <a href="">
-				                        <img class="img-responsive" src="img/thumb-4.jpg" alt="Thumb-4">
+				                        <img class="img-responsive" src="images/thumb-4.jpg" alt="Thumb-4">
 				                    </a>
 				                </li>
 				            </ul>
