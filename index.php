@@ -73,7 +73,7 @@
 									      <span class="card-title blue-grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#event1">This is a link</a></p>
 									    </div>
 									</div>
 								</div>
@@ -164,6 +164,16 @@
 								</div>
 							</div>
 						</article>
+
+					<!--Events-->
+					<article id="event1">
+							<h2 class="major">Event Name</h2>
+							<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+							<h3>Event Info</h3>
+							<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+
+					</article>
 
 					<!-- About -->
 						<article id="about">

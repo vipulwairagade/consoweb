@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-pixelarity.com	TRUE	/	FALSE	1999999999	pref	cddeb36ed6a32d73a46c089aa5634597
-pixelarity.com	TRUE	/	FALSE	1999999999	awx	deleted
-

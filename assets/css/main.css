@@ -1609,3 +1609,8 @@ canvas {
 		body.is-loading #footer {
 			opacity: 0;
 		}
+
+/*Events Section*/
+#event1 {
+	width: 70% !important;
+}
