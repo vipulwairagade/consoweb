@@ -65,7 +65,7 @@
 								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/bg.jpg">
+									      <img class="activator" src="images/startupconclave.jpg">
 									    </div>
 									    <div class="card-content">
 									      <span class="card-title activator grey-text text-darken-4">STARTUP CONCLAVE<i class="material-icons right">more_vert</i></span>
@@ -75,14 +75,14 @@
 									      <span class="card-title blue-grey-text text-darken-4">STARTUP CONCLAVE<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text"> Start-up Conclave provides a platform for innovative startups from all over the country to get in touch with students and investors. The startups would present their products/services during Consortium. It also provides an opportunity for the attendees to learn about the new entrepreneurial techniques that startups have used to become successful in their journey. It will serve as a platform for motivation and valuable learning for aspiring entrepreneurs which will surely propel their start-up career.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#event1" target="_blank">View more</a></p>
+									      <a class="brown-text text-darken-4"href="#sc" target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
 								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/bg.jpg">
+									      <img class="activator" src="images/swades2.jpg">
 									    </div>
 									    <div class="card-content">
 									      <span class="card-title activator grey-text text-darken-4">SWADES<i class="material-icons right">more_vert</i></span>
@@ -92,14 +92,14 @@
 									      <span class="card-title blue-grey-text text-darken-4">SWADES<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Swades is a social entrepreneurship event of Consortium 18. Organised by the Entrepreneurship Cell, the event which aims to understand the social problems in rural India and using an entrepreneurial mindset to solve them. Swades lets the participants form a business plan that focuses on a particular problem and returns with a sustainable solution. Participants are taken to village to understand first-hand the actual ground level problems.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">View more</a></p>
+									      <a class="brown-text text-darken-4"href="#swades" target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
 								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/bg.jpg">
+									      <img class="activator" src="images/ceo2.jpg">
 									    </div>
 									    <div class="card-content">
 									      <span class="card-title activator grey-text text-darken-4">CEO<i class="material-icons right">more_vert</i></span>
@@ -109,14 +109,14 @@
 									      <span class="card-title blue-grey-text text-darken-4">CEO<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">CEO, an event which aims to ignite the spark of entrepreneurship in students of class 6th and above. It provides an excellent opportunity for students to showcase their leadership skills and presence of mind as needed in the corporate world. An event which gives a glimpse into the future, where exemplary leadership is absolutely necessary for success and where participants overcome obstacles, take risks and thrive even during the most challenging times.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">View more</a></p>
+									      <a class="brown-text text-darken-4"href="#ceo" target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
 								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/bg.jpg">
+									      <img class="activator" src="images/silhouette2.jpg">
 									    </div>
 									    <div class="card-content">
 									      <span class="card-title activator grey-text text-darken-4">SILHOUETTE<i class="material-icons right">more_vert</i></span>
@@ -126,14 +126,14 @@
 									      <span class="card-title blue-grey-text text-darken-4">SILHOUETTE<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Silhouette brings to you a logo design event . Design stunning logo around a theme and test your desiging skills. Participants would have to design a logo and submit it to us and the best of all will be rewarded . And don't forget yours logo could be a brand someday .
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">View more</a></p>
+									      <a class="brown-text text-darken-4"href="#silhouette" Target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
 								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/bg.jpg">
+									      <img class="activator" src="images/ad-venture2.jpg">
 									    </div>
 									    <div class="card-content">
 									      <span class="card-title activator grey-text text-darken-4">AD-VENTURE<i class="material-icons right">more_vert</i></span>
@@ -143,14 +143,14 @@
 									      <span class="card-title blue-grey-text text-darken-4">AD-VENTURE<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Ad-venture is the ad making event in Conso. If you can roll your pitch ideas into a complete advertisement for a company then this event provides you with the opportunity to make it big. Participants will make an ad for a company and will be judged on their creativity, brevity and originality.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">View more</a></p>
+									      <a class="brown-text text-darken-4"href="#ad-venture" Target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
 								<div class="col s12 m6 l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
-									      <img class="activator" src="images/adventure.jpg">
+									      <img class="activator" src="images/bizmantra2.jpg">
 									    </div>
 									    <div class="card-content">
 									      <span class="card-title activator grey-text text-darken-4">BIZMANTRA<i class="material-icons right">more_vert</i></span>
@@ -160,15 +160,250 @@
 									      <span class="card-title blue-grey-text text-darken-4">BIZMANTRA<i class="material-icons right">close</i></span>
 									      <p class="blue-grey-text">Biz Mantra is an event which gives the contestants an idea of surviving in the market,through an interactive competition that helps separate out the innovative entrepreneurial minds from the rest.The event comprises of a number of rounds,where out of the box minds are challenged to equally challenging series of tasks.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">View more</a></p>
+									      <a class="brown-text text-darken-4"href="#swades" Target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
 							</div>
 						</article>
 
+					<!--SWADES-->
+					<article id="swades">
+							<h2 class="major">Swades</h2>
+
+
+							  <div class="card" id="event-card-bg">
+							    <div class="card-tabs">
+							      <ul class="tabs tabs-transparent">
+							        <li class="tab"><a class="active" href="#test4">WHAT?</a></li>
+							        <li class="tab"><a href="#test5">WHY?</a></li>
+							        <li class="tab"><a href="#test6">REGISTER</a></li>
+							        <li class="tab"><a href="#test7">CONTACT</a></li>
+							      </ul>
+							    </div>
+							    <div class="card-content code">
+							    	<div id="test4">
+								      	<span class="image main"><img src="images/swades.jpg" alt="" /></span>
+										<h3>Event Info</h3>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
+											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							    	</div>
+							    	<div id="test5">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test6">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test7">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+
+							    </div>
+							  </div>
+					</article>
+
+					<!--CEO-->
+					<article id="ceo">
+							<h2 class="major">CEO</h2>
+
+
+							  <div class="card" id="event-card-bg">
+							    <div class="card-tabs">
+							      <ul class="tabs tabs-transparent">
+							        <li class="tab"><a class="active" href="#test4">WHAT?</a></li>
+							        <li class="tab"><a href="#test5">WHY?</a></li>
+							        <li class="tab"><a href="#test6">REGISTER</a></li>
+							        <li class="tab"><a href="#test7">CONTACT</a></li>
+							      </ul>
+							    </div>
+							    <div class="card-content code">
+							    	<div id="test4">
+								      	<span class="image main"><img src="images/CEO.jpg" alt="" /></span>
+										<h3>Event Info</h3>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
+											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							    	</div>
+							    	<div id="test5">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test6">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test7">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+
+							    </div>
+							  </div>
+					</article>
+
+					<!--silhouelette-->
+					<article id="silhouette">
+							<h2 class="major">SILHOUETTE</h2>
+
+
+							  <div class="card" id="event-card-bg">
+							    <div class="card-tabs">
+							      <ul class="tabs tabs-transparent">
+							        <li class="tab"><a class="active" href="#test4">WHAT?</a></li>
+							        <li class="tab"><a href="#test5">WHY?</a></li>
+							        <li class="tab"><a href="#test6">REGISTER</a></li>
+							        <li class="tab"><a href="#test7">CONTACT</a></li>
+							      </ul>
+							    </div>
+							    <div class="card-content code">
+							    	<div id="test4">
+								      	<span class="image main"><img src="images/silhouette.jpg" alt="" /></span>
+										<h3>Event Info</h3>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
+											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							    	</div>
+							    	<div id="test5">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test6">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test7">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+
+							    </div>
+							  </div>
+					</article>
+
+					<!--Ad-Venture-->
+					<article id="ad-venture">
+							<h2 class="major">AD-VENTURE</h2>
+
+
+							  <div class="card" id="event-card-bg">
+							    <div class="card-tabs">
+							      <ul class="tabs tabs-transparent">
+							        <li class="tab"><a class="active" href="#test4">WHAT?</a></li>
+							        <li class="tab"><a href="#test5">WHY?</a></li>
+							        <li class="tab"><a href="#test6">REGISTER</a></li>
+							        <li class="tab"><a href="#test7">CONTACT</a></li>
+							      </ul>
+							    </div>
+							    <div class="card-content code">
+							    	<div id="test4">
+								      	<span class="image main"><img src="images/ad-venture.jpg" alt="" /></span>
+										<h3>Event Info</h3>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
+											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							    	</div>
+							    	<div id="test5">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test6">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test7">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+
+							    </div>
+							  </div>
+					</article>
+
+					<!--BIZMANTRA-->
+					<article id="bizmantra">
+							<h2 class="major">BIZMANTRA</h2>
+
+
+							  <div class="card" id="event-card-bg">
+							    <div class="card-tabs">
+							      <ul class="tabs tabs-transparent">
+							        <li class="tab"><a class="active" href="#test4">WHAT?</a></li>
+							        <li class="tab"><a href="#test5">WHY?</a></li>
+							        <li class="tab"><a href="#test6">REGISTER</a></li>
+							        <li class="tab"><a href="#test7">CONTACT</a></li>
+							      </ul>
+							    </div>
+							    <div class="card-content code">
+							    	<div id="test4">
+								      	<span class="image main"><img src="images/bizmantra.jpg" alt="" /></span>
+										<h3>Event Info</h3>
+										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
+											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+							    	</div>
+							    	<div id="test5">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test6">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+									<div id="test7">
+								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
+											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
+											Pellentesque aliquam maximus risus, vel sed vehicula.
+										</p>
+									</div>
+
+							    </div>
+							  </div>
+					</article>
+
 					<!--Events-->
-					<article id="event1">
+					<article id="sc">
 							<h2 class="major">Event Name</h2>
 
 
@@ -212,11 +447,6 @@
 
 							    </div>
 							  </div>
-
-
-
-
-
 					</article>
 
 					<!-- About -->
@@ -294,7 +524,7 @@
 								<h3 class="major">Text</h3>
 								<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 								This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-								This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">view more</a>.</p>
+								This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#" target="_blank">View more</a>.</p>
 								<hr />
 								<h2>Heading Level 2</h2>
 								<h3>Heading Level 3</h3>
