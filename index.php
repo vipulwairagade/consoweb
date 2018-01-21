@@ -71,9 +71,9 @@
 									    </div>
 									    <div class="card-reveal">
 									      <span class="card-title blue-grey-text text-darken-4">STARTUP CONCLAVE<i class="material-icons right">close</i></span>
-									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
+									      <p class="blue-grey-text"> Start-up Conclave provides a platform for innovative startups from all over the country to get in touch with students and investors. The startups would present their products/services during Consortium. It also provides an opportunity for the attendees to learn about the new entrepreneurial techniques that startups have used to become successful in their journey. It will serve as a platform for motivation and valuable learning for aspiring entrepreneurs which will surely propel their start-up career.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#event1" target="_blank">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#event1" target="_blank">View more</a></p>
 									    </div>
 									</div>
 								</div>
@@ -88,9 +88,9 @@
 									    </div>
 									    <div class="card-reveal">
 									      <span class="card-title blue-grey-text text-darken-4">SWADES<i class="material-icons right">close</i></span>
-									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
+									      <p class="blue-grey-text">Swades is a social entrepreneurship event of Consortium 18. Organised by the Entrepreneurship Cell, the event which aims to understand the social problems in rural India and using an entrepreneurial mindset to solve them. Swades lets the participants form a business plan that focuses on a particular problem and returns with a sustainable solution. Participants are taken to village to understand first-hand the actual ground level problems.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#">View more</a></p>
 									    </div>
 									</div>
 								</div>
@@ -105,9 +105,9 @@
 									    </div>
 									    <div class="card-reveal">
 									      <span class="card-title blue-grey-text text-darken-4">CEO<i class="material-icons right">close</i></span>
-									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
+									      <p class="blue-grey-text">CEO, an event which aims to ignite the spark of entrepreneurship in students of class 6th and above. It provides an excellent opportunity for students to showcase their leadership skills and presence of mind as needed in the corporate world. An event which gives a glimpse into the future, where exemplary leadership is absolutely necessary for success and where participants overcome obstacles, take risks and thrive even during the most challenging times.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#">View more</a></p>
 									    </div>
 									</div>
 								</div>
@@ -122,9 +122,9 @@
 									    </div>
 									    <div class="card-reveal">
 									      <span class="card-title blue-grey-text text-darken-4">SILHOUETTE<i class="material-icons right">close</i></span>
-									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
+									      <p class="blue-grey-text">Silhouette brings to you a logo design event . Design stunning logo around a theme and test your desiging skills. Participants would have to design a logo and submit it to us and the best of all will be rewarded . And don't forget yours logo could be a brand someday .
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#">View more</a></p>
 									    </div>
 									</div>
 								</div>
@@ -139,9 +139,9 @@
 									    </div>
 									    <div class="card-reveal">
 									      <span class="card-title blue-grey-text text-darken-4">AD-VENTURE<i class="material-icons right">close</i></span>
-									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
+									      <p class="blue-grey-text">Ad-venture is the ad making event in Conso. If you can roll your pitch ideas into a complete advertisement for a company then this event provides you with the opportunity to make it big. Participants will make an ad for a company and will be judged on their creativity, brevity and originality.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#">View more</a></p>
 									    </div>
 									</div>
 								</div>
@@ -156,9 +156,9 @@
 									    </div>
 									    <div class="card-reveal">
 									      <span class="card-title blue-grey-text text-darken-4">BIZMANTRA<i class="material-icons right">close</i></span>
-									      <p class="blue-grey-text">Here is some more information about this product that is only revealed once clicked on.
+									      <p class="blue-grey-text">Biz Mantra is an event which gives the contestants an idea of surviving in the market,through an interactive competition that helps separate out the innovative entrepreneurial minds from the rest.The event comprises of a number of rounds,where out of the box minds are challenged to equally challenging series of tasks.
 									      <br>
-									      <a class="brown-text text-darken-4"href="#">This is a link</a></p>
+									      <a class="brown-text text-darken-4"href="#">View more</a></p>
 									    </div>
 									</div>
 								</div>
@@ -263,7 +263,7 @@
 								<h3 class="major">Text</h3>
 								<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 								This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-								This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+								This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">view more</a>.</p>
 								<hr />
 								<h2>Heading Level 2</h2>
 								<h3>Heading Level 3</h3>
