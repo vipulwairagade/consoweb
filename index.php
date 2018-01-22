@@ -185,30 +185,58 @@
 							    <div class="card-content code">
 							    	<div id="swades4">
 								      	<span class="image main"><img src="images/swades.jpg" alt="" /></span>
-										<h3>Event Info</h3>
-										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
-											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
+										<h3>About</h3>
+										<blockquote>"Grass root Innovations beyond Imagination"</blockquote>
+										<p>One of the rudimentary aspects of our education is the attainment of skills to ease the struggles of our community. We at SWADES, make the entrepreneurs get an insight into blurred segments of the village life and pave them towards a clear path that focuses on a pragmatic, yet a sustainable solution.</p>
+										<br>
+										<h3>Competition is divided into three rounds as follows:</h3>
+										<h4>Round 1:(Eliminations)</h4>
+										<pre><code>26th January, 2018 – 14th February, 2018 | Colleges in and around Nagpur</code></pre>
+										<p>Participants have to fill a questionnaire to register. Experts will analyse and shortlisted teams for the second round.</p>
+							    	    <br>
+							    	    <h4>Round 2:</h4>
+							    	    <pre><code>4th March, 2018 | Journey from VNIT, Nagpur</code></pre>
+							    	    <p>Participants will be allowed to peek into the village life, interact with the village inmates and identify their day to day problems. </p>
+										<br>
+										<h4>Round 3: Presentation Round (Final Round)</h4>
+										<pre><code>10th March, 2018 </code></pre>
+										<p>All the participants will be given a week’s time to find an appropriate solution to the identified problem, apt enough to be transformed into a social enterprise as well as be feasible to work upon on ground level with the constrained resources and make an impact on the villagers’ life.</p>
+
 							    	</div>
 							    	<div id="swades5">
-								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
-											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-											Pellentesque aliquam maximus risus, vel sed vehicula.
-										</p>
+										<h3>Vision</h3>
+										<blockquote>“Real India resides in its villages”	~Mahatma Gandhi</blockquote>
+										<p>Consortium’18 under the banner of Entrepreneurship Cell presents Swades’18, the annual social entrepreneurship and innovation summit, where budding entrepreneurs are exposed to ground realities, where constant daily struggles provide inspiration and determination to create a change resulting in some of the most innovative yet effective and sustainable innovations, feasible enough to have the capability to make a difference on the ground level. So it goes with the saying that the development of the country starts with its villages.</p>
+										<br>
+										<h3>A glance at the incentives of Swades</h3>
+										<ol>
+											<li>Incubation for the winners.</li>
+											<li>Cash prizes and goodies for participants. </li>
+											<li>First-hand exposure to the village environment. </li>
+											<li>Set your eyes on the ground realities to get an insight.</li>
+											<li>Be the fulcrum of change in the Indian society.</li>
+											<li>Witness to some of the most impactful innovations.</li>
+											<li>Have by your side the highest level of support system for execution and implementation.</li>
+											<li>Develop contacts with high profile NGOs, Social Clubs, Company CSRs in this sector, with years of experience and expertise.</li>
+											<li>Various internships opportunities. </li>
+										</ol>
 									</div>
 									<div id="swades6">
-								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
-											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-											Pellentesque aliquam maximus risus, vel sed vehicula.
-										</p>
+								     	<h3>Eligibility Criteria</h3>
+								     	<ol>
+								     		<li>Participation is allowed in teams consisting of 2-4 members only.</li>
+								     		<li>There is no restriction as such. Anyone above 16 years of age can participate.</li>
+								     	</ol>
+								     	<br>
+								     	<h3>How to participate?</h3>
+								     	<p>
+											Below is the link to register to the event.
+											This will lead to a questionnaire which you need to fill with your team before completing the registration process.
+											Shortlisted teams will be contacted by our event managers by 14th February.
+								     	</p>
 									</div>
 									<div id="swades7">
-								     	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-											Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor.
-											Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-											Pellentesque aliquam maximus risus, vel sed vehicula.
-										</p>
+
 									</div>
 
 							    </div>
