@@ -62,7 +62,7 @@
 						<article id="work">
 							<h2 class="major">Events</h2>
 							<div class="row">
-								<div class="col s12 m6 l4">
+								<div class="col s12 m6 blue-grey-text l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/startupconclave.jpg">
@@ -79,7 +79,7 @@
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m6 l4">
+								<div class="col s12 m6 blue-grey-text l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/swades2.jpg">
@@ -96,7 +96,7 @@
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m6 l4">
+								<div class="col s12 m6 blue-grey-text l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/ceo2.jpg">
@@ -113,7 +113,7 @@
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m6 l4">
+								<div class="col s12 m6 blue-grey-text l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/silhouette2.jpg">
@@ -130,7 +130,7 @@
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m6 l4">
+								<div class="col s12 m6 blue-grey-text l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/ad-venture2.jpg">
@@ -147,7 +147,7 @@
 									    </div>
 									</div>
 								</div>
-								<div class="col s12 m6 l4">
+								<div class="col s12 m6 blue-grey-text l4">
 									<div class="card">
 									    <div class="card-image waves-effect waves-block waves-light">
 									      <img class="activator" src="images/bizmantra2.jpg">
@@ -437,6 +437,190 @@
 					<!-- Contact -->
 						<article id="contact">
 							<h2 class="major">Contact</h2>
+							<div class="container page-wrapper">
+    <div class="page-header">
+      <center>
+        <h1>Our Team</h1></center>
+    </div><br>
+    <div class="row">
+      <div class="page-header">
+        <center>
+          <h2>President</h2></center>
+      </div>
+
+
+          <div class="col s12 m6 blue-grey-text offset-m3">
+            <div class="card">
+              <img src="/images/sankalp.jpg" alt="Sankalp Kotewar" style="width:100%">
+              <div class="container">
+                <h2>Sankalp Kotewar</h2>
+                <p class="title">
+                  President<br>+91 9623478426
+                </p>
+                <ul class="list-inline social-buttons">
+                  <li><a href="https://www.linkedin.com/in/sankalpkotewar/"><i class="fa fa-linkedin"></i></a> </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+    </div>
+    <div class="row row-centered">
+      <div class="page-header">
+        <center>
+          <h2>Treasurer</h2></center>
+      </div>
+
+        <div class="col s12 m6 blue-grey-text offset-m3">
+          <div class="card">
+            <img src="/images/farzan.jpg" alt="Farzan Shaikh" style="width:100%">
+            <div class="container">
+              <h2>Farzan Shaikh</h2>
+              <p class="title">
+                Treasurer<br>+91 9561483304
+              </p>
+              <ul class="list-inline social-buttons">
+                <li><a href="https://www.linkedin.com/in/farzanshaikh/"><i class="fa fa-linkedin"></i></a> </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+    </div>
+
+  </div>
+  <div class="row row-centered">
+    <div class="page-header">
+      <center>
+        <h2>Public Relations and Operations</h2></center>
+    </div>
+
+      <div class="col s12 m6 blue-grey-text centered">
+        <div class="card">
+          <img src="/images/meghna.jpg" alt="Meghna Bhave" style="width:100%">
+          <div class="container">
+            <h2>Meghna Bhave</h2>
+            <p class="title">
+              Public Relations and Operations<br>+91 8586059566
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="https://www.linkedin.com/in/meghna-bhave-68599b11a/"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col s12 m6 blue-grey-text centered">
+        <div class="card">
+          <img src="/images/mukul.jpg" alt="Mukul Parashar" style="width:100%">
+          <div class="container">
+            <h2>Mukul Parashar</h2>
+            <p class="title">
+              Public Relations and Operations<br>+91 8600092897
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="https://www.linkedin.com/in/mukul-parashar-b84831142/"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+  </div>
+  <div class="row row-centered">
+    <div class="page-header">
+      <center>
+        <h2>Corporate Relations</h2></center>
+    </div>
+
+      <div class="col s12 m6 blue-grey-text centered">
+        <div class="card">
+          <img src="/images/brahma.jpg" alt="Brahmdutt Sharma" style="width:100%">
+          <div class="container">
+            <h2>Brahmdutt Sharma</h2>
+            <p class="title">
+              Corporate Relations<br>+91 8561852461
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="#"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col s12 m6 blue-grey-text centered">
+        <div class="card">
+          <img src="/images/vishnu.jpg" alt="M. Vishnu" style="width:100%">
+          <div class="container">
+            <h2>M. Vishnu</h2>
+            <p class="title">
+              Corporate Relations<br>+91 9145539460
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="https://www.linkedin.com/in/vishnu-m/"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+  </div>
+  <div class="row row-centered">
+    <div class="page-header">
+      <center>
+        <h2>Events and Planning</h2></center>
+    </div>
+
+      <div class="col s12 m6 blue-grey-text centered">
+        <div class="card">
+          <img src="/images/hemant.jpg" alt="Hemant Agrawal" style="width:100%">
+          <div class="container">
+            <h2>Hemant Agrawal</h2>
+            <p class="title">
+              Events and Planning<br>+91 8791714630
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="https://www.linkedin.com/in/hemant-agrawal-9b1a47139/"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="col s12 m6 blue-grey-text centered">
+        <div class="card">
+          <img src="/images/utkarsh.jpg" alt="Utkarsh Gupta" style="width:100%">
+          <div class="container">
+            <h2>Utkarsh Gupta</h2>
+            <p class="title">
+              Events and Planning<br>+91 7757931072
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="https://www.linkedin.com/in/utkarsh-gupta-708959113/"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+  </div>
+  <div class="row row-centered">
+    <div class="page-header">
+      <center>
+        <h2>Technical and Web Team</h2></center>
+    </div>
+
+      <div class="col s12 m6 blue-grey-text offset-m3">
+        <div class="card">
+          <img src="/images/vipul.JPG" alt="Vipul Wairagade" style="width:100%">
+          <div class="container">
+            <h2>Vipul Wairagade</h2>
+            <p class="title">
+              Technical and Web Team<br>+91 8275868277
+            </p>
+            <ul class="list-inline social-buttons">
+              <li><a href="https://www.linkedin.com/in/vipul-wairagade-a6438b111/"><i class="fa fa-linkedin"></i></a> </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+  </div>
 							<form method="post" action="#"><section>
 									<div class="field half first">
 										<label for="demo-name">Name</label>
