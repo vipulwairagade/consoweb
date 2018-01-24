@@ -113,3 +113,29 @@
 .home .demo-gallery {
     padding-bottom: 80px;
 }
+
+
+
+/* spons, team*/
+
+#spons img{
+    max-width:160px;
+}
+
+#contact img{
+    max-width:300px;
+}
+#contact .card{
+    width:300px;
+    text-align:center;
+}
+#contact .card h2{
+    color:#668290;
+    font-size:20px;
+    letter-spacing:1px;
+    text-align:center;
+}
+#contact p{
+    margin-bottom:-5px;
+    margin-top:-15px;
+}
