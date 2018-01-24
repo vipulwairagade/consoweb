@@ -450,7 +450,7 @@
 						      </div>
 
 
-						          <div class="col s12 m6 blue-grey-text offset-m4">
+						          <div class="col s12 blue-grey-text">
 						            <div class="card">
 						              <img src="/images/sankalp.jpg" alt="Sankalp Kotewar" style="width:100%">
 						              <div class="container">
@@ -468,7 +468,7 @@
 							          <h2>Treasurer</h2></center>
 							      </div>
 
-							        <div class="col s12 m6 blue-grey-text offset-m4">
+							        <div class="col s12 blue-grey-text">
 							          <div class="card">
 							            <img src="/images/farzan.jpg" alt="Farzan Shaikh" style="width:100%">
 							            <div class="container">
@@ -586,7 +586,7 @@
         <h2>Technical and Web Team</h2></center>
     </div>
 
-      <div class="col s12 m6 blue-grey-text offset-m4">
+      <div class="col s12 blue-grey-text">
         <div class="card">
           <img src="/images/vipul.JPG" alt="Vipul Wairagade" style="width:100%">
           <div class="container">

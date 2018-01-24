@@ -119,13 +119,15 @@
 /* spons, team*/
 
 #spons img{
-    max-width:160px;
+    max-width:150px;
 }
 
-#contact img{
+#contact {
     max-width:300px;
 }
 #contact .card{
+    margin-left:auto;
+    margin-right:auto;
     width:300px;
     text-align:center;
 }
