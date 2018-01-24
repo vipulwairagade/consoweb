@@ -141,3 +141,8 @@
     margin-bottom:-5px;
     margin-top:-15px;
 }
+@media(max-width:360px){
+    #spons img{
+        max-width:120px;
+    }
+}
