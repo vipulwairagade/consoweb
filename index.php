@@ -28,7 +28,7 @@
 				<header id="header">
 
 					<div class="logo">
-						<span class="icon fa-diamond"></span>
+						<span class="icon"><img src="images/logo.png"/></span>
 					</div>
 					<div class="content">
 						<div class="inner">
@@ -38,7 +38,7 @@
 					</div>
 					<nav>
 						<ul>
-							<li><a href="#intro">INTRO</a></li>
+
 							<li><a href="#about">ABOUT US</a></li>
 							<li><a href="#work">EVENTS</a></li>
 							<li><a href="#gallery">GALLERY</a></li>
@@ -51,13 +51,7 @@
 			<!-- Main -->
 				<div id="main">
 
-					<!-- Intro -->
-						<article id="intro">
-							<h2 class="major">Intro</h2>
-							<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-							<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-						</article>
+
 
 					<!-- Work -->
 						<article id="work">
@@ -172,6 +166,7 @@
 					<!--SWADES-->
 					<article id="swades">
 							<h2 class="major">Swades</h2>
+							<span class="image main"><img src="images/swades.jpg" alt="" /></span>
 
 
 							  <div class="card" id="event-card-bg">
@@ -185,7 +180,7 @@
 							    </div>
 							    <div class="card-content code">
 							    	<div id="swades4">
-								      	<span class="image main"><img src="images/swades.jpg" alt="" /></span>
+
 										<h3>About</h3>
 										<blockquote>"Grass root Innovations beyond Imagination"</blockquote>
 										<p>One of the rudimentary aspects of our education is the attainment of skills to ease the struggles of our community. We at SWADES, make the entrepreneurs get an insight into blurred segments of the village life and pave them towards a clear path that focuses on a pragmatic, yet a sustainable solution.</p>
@@ -246,6 +241,7 @@
 					<!--ceo-->
 					<article id="ceo">
 							<h2 class="major">CEO</h2>
+							<span class="image main"><img src="images/CEO.jpg" alt="" /></span>
 
 
 							  <div class="card" id="event-card-bg">
@@ -259,7 +255,7 @@
 							    </div>
 							    <div class="card-content code">
 							    	<div id="ceo4">
-								      	<span class="image main"><img src="images/CEO.jpg" alt="" /></span>
+
 										<h3>Event Info</h3>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
 											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
@@ -292,6 +288,7 @@
 					<!--SILHOUETTE-->
 					<article id="silhouette">
 							<h2 class="major">CEO</h2>
+							<span class="image main"><img src="images/silhouette.jpg" alt="" /></span>
 
 
 							  <div class="card" id="event-card-bg">
@@ -305,7 +302,7 @@
 							    </div>
 							    <div class="card-content code">
 							    	<div id="SILHOUETTE4">
-								      	<span class="image main"><img src="images/silhouette.jpg" alt="" /></span>
+
 										<h3>Event Info</h3>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
 											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
@@ -339,6 +336,7 @@
 					<!--Ad-venture-->
 					<article id="ad-venture">
 							<h2 class="major">ad-venture</h2>
+							<span class="image main"><img src="images/ad-venture.jpg" alt="" /></span>
 
 
 							  <div class="card" id="event-card-bg">
@@ -352,7 +350,7 @@
 							    </div>
 							    <div class="card-content code">
 							    	<div id="ad-venture4">
-								      	<span class="image main"><img src="images/ad-venture.jpg" alt="" /></span>
+
 										<h3>Event Info</h3>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
 											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
@@ -385,6 +383,7 @@
 					<!--BIzmantra-->
 					<article id="bizmantra">
 							<h2 class="major">bizmantra</h2>
+							<span class="image main"><img src="images/bizmantra.jpg" alt="" /></span>
 
 
 							  <div class="card" id="event-card-bg">
@@ -398,7 +397,7 @@
 							    </div>
 							    <div class="card-content code">
 							    	<div id="bizmantra4">
-								      	<span class="image main"><img src="images/bizmantra.jpg" alt="" /></span>
+
 										<h3>Event Info</h3>
 										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia.
 											Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
@@ -439,17 +438,15 @@
 						<article id="contact">
 							<h2 class="major">Contact</h2>
 							<div class="container page-wrapper">
-						    <div class="page-header">
-						      <center>
-						        <h1>Our Team</h1></center>
-						    </div><br>
-						    <div class="row">
-						      <div class="page-header">
-						        <center>
-						          <h2>President</h2></center>
-						      </div>
-
-
+							    <div class="page-header">
+							      <center>
+							        <h1>Our Team</h1></center>
+							    </div><br>
+							    <div class="row">
+							      <div class="page-header">
+							        <center>
+							          <h2>President</h2></center>
+							      </div>
 						          <div class="col s12 blue-grey-text">
 						            <div class="card">
 						              <img src="/images/sankalp.jpg" alt="Sankalp Kotewar" style="width:100%">
@@ -461,12 +458,11 @@
 						              </div>
 						            </div>
 						          </div>
-							    </div>
+								</div>
 							    <div class="row row-centered">
-							      <div class="page-header">
-							        <center>
-							          <h2>Treasurer</h2></center>
-							      </div>
+							        <div class="page-header">
+							          <center><h2>Treasurer</h2></center>
+							        </div>
 
 							        <div class="col s12 blue-grey-text">
 							          <div class="card">
@@ -479,127 +475,127 @@
 							            </div>
 							          </div>
 							        </div>
-							    </div>
-  						</div>
-  <div class="row row-centered">
-    <div class="page-header">
-      <center>
-        <h2>Public Relations and Operations</h2></center>
-    </div>
+						    	</div>
+  							</div>
+						  <div class="row row-centered">
+						    <div class="page-header">
+						      <center>
+						        <h2>Public Relations and Operations</h2></center>
+						    </div>
 
-      <div class="col s12 m6 blue-grey-text">
-        <div class="card">
-          <img src="/images/meghna.jpg" alt="Meghna Bhave" style="width:100%">
-          <div class="container">
-            <h2>Meghna Bhave</h2>
-            <p class="title">
-              Public Relations and Operations<br>+91 8586059566
-            </p>
-            <a href="https://www.linkedin.com/in/meghna-bhave-68599b11a/"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 m6 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/meghna.jpg" alt="Meghna Bhave" style="width:100%">
+						          <div class="container">
+						            <h2>Meghna Bhave</h2>
+						            <p class="title">
+						              Public Relations and Operations<br>+91 8586059566
+						            </p>
+						            <a href="https://www.linkedin.com/in/meghna-bhave-68599b11a/"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-      <div class="col s12 m6 blue-grey-text">
-        <div class="card">
-          <img src="/images/mukul.jpg" alt="Mukul Parashar" style="width:100%">
-          <div class="container">
-            <h2>Mukul Parashar</h2>
-            <p class="title">
-              Public Relations and Operations<br>+91 8600092897
-            </p>
-            <a href="https://www.linkedin.com/in/mukul-parashar-b84831142/"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 m6 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/mukul.jpg" alt="Mukul Parashar" style="width:100%">
+						          <div class="container">
+						            <h2>Mukul Parashar</h2>
+						            <p class="title">
+						              Public Relations and Operations<br>+91 8600092897
+						            </p>
+						            <a href="https://www.linkedin.com/in/mukul-parashar-b84831142/"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-  </div>
-  <div class="row row-centered">
-    <div class="page-header">
-      <center>
-        <h2>Corporate Relations</h2></center>
-    </div>
+						  </div>
+						  <div class="row row-centered">
+						    <div class="page-header">
+						      <center>
+						        <h2>Corporate Relations</h2></center>
+						    </div>
 
-      <div class="col s12 m6 blue-grey-text">
-        <div class="card">
-          <img src="/images/brahma.jpg" alt="Brahmdutt Sharma" style="width:100%">
-          <div class="container">
-            <h2>Brahmdutt Sharma</h2>
-            <p class="title">
-              Corporate Relations<br>+91 8561852461
-            </p>
-            <a href="#"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 m6 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/brahma.jpg" alt="Brahmdutt Sharma" style="width:100%">
+						          <div class="container">
+						            <h2>Brahmdutt Sharma</h2>
+						            <p class="title">
+						              Corporate Relations<br>+91 8561852461
+						            </p>
+						            <a href="#"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-      <div class="col s12 m6 blue-grey-text">
-        <div class="card">
-          <img src="/images/vishnu.jpg" alt="M. Vishnu" style="width:100%">
-          <div class="container">
-            <h2>M. Vishnu</h2>
-            <p class="title">
-              Corporate Relations<br>+91 9145539460
-            </p>
-            <a href="https://www.linkedin.com/in/vishnu-m/"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 m6 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/vishnu.jpg" alt="M. Vishnu" style="width:100%">
+						          <div class="container">
+						            <h2>M. Vishnu</h2>
+						            <p class="title">
+						              Corporate Relations<br>+91 9145539460
+						            </p>
+						            <a href="https://www.linkedin.com/in/vishnu-m/"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-  </div>
-  <div class="row row-centered">
-    <div class="page-header">
-      <center>
-        <h2>Events and Planning</h2></center>
-    </div>
+						  </div>
+						  <div class="row row-centered">
+						    <div class="page-header">
+						      <center>
+						        <h2>Events and Planning</h2></center>
+						    </div>
 
-      <div class="col s12 m6 blue-grey-text">
-        <div class="card">
-          <img src="/images/hemant.jpg" alt="Hemant Agrawal" style="width:100%">
-          <div class="container">
-            <h2>Hemant Agrawal</h2>
-            <p class="title">
-              Events and Planning<br>+91 8791714630
-            </p>
-            <a href="https://www.linkedin.com/in/hemant-agrawal-9b1a47139/"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 m6 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/hemant.jpg" alt="Hemant Agrawal" style="width:100%">
+						          <div class="container">
+						            <h2>Hemant Agrawal</h2>
+						            <p class="title">
+						              Events and Planning<br>+91 8791714630
+						            </p>
+						            <a href="https://www.linkedin.com/in/hemant-agrawal-9b1a47139/"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-      <div class="col s12 m6 blue-grey-text">
-        <div class="card">
-          <img src="/images/utkarsh.jpg" alt="Utkarsh Gupta" style="width:100%">
-          <div class="container">
-            <h2>Utkarsh Gupta</h2>
-            <p class="title">
-              Events and Planning<br>+91 7757931072
-            </p>
-            <a href="https://www.linkedin.com/in/utkarsh-gupta-708959113/"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 m6 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/utkarsh.jpg" alt="Utkarsh Gupta" style="width:100%">
+						          <div class="container">
+						            <h2>Utkarsh Gupta</h2>
+						            <p class="title">
+						              Events and Planning<br>+91 7757931072
+						            </p>
+						            <a href="https://www.linkedin.com/in/utkarsh-gupta-708959113/"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-  </div>
-  <div class="row row-centered">
-    <div class="page-header">
-      <center>
-        <h2>Technical and Web Team</h2></center>
-    </div>
+						  </div>
+						  <div class="row row-centered">
+						    <div class="page-header">
+						      <center>
+						        <h2>Technical and Web Team</h2></center>
+						    </div>
 
-      <div class="col s12 blue-grey-text">
-        <div class="card">
-          <img src="/images/vipul.JPG" alt="Vipul Wairagade" style="width:100%">
-          <div class="container">
-            <h2>Vipul Wairagade</h2>
-            <p class="title">
-              Technical and Web Team<br>+91 8275868277
-            </p>
-            <a href="https://www.linkedin.com/in/vipul-wairagade-a6438b111/"><i class="fa fa-linkedin"></i></a>
-          </div>
-        </div>
-      </div>
+						      <div class="col s12 blue-grey-text">
+						        <div class="card">
+						          <img src="/images/vipul.JPG" alt="Vipul Wairagade" style="width:100%">
+						          <div class="container">
+						            <h2>Vipul Wairagade</h2>
+						            <p class="title">
+						              Technical and Web Team<br>+91 8275868277
+						            </p>
+						            <a href="https://www.linkedin.com/in/vipul-wairagade-a6438b111/"><i class="fa fa-linkedin"></i></a>
+						          </div>
+						        </div>
+						      </div>
 
-  </div>
+						  </div>
 							<h1>MAIL US</h1>
 							<form method="post" action="#"><section>
 									<div class="field half first">
